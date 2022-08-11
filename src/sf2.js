@@ -37,6 +37,4 @@ const insertNewRequest = async (key) => {
   }
 };
 
-module.exports = {
-  insertNewRequest
-};
+export default insertNewRequest;
